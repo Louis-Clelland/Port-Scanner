@@ -1,0 +1,6 @@
+C:\Users\louis\source\repos\Port Scanner Public\Port Scanner Public\bin\Debug\Port Scanner Public.exe.config
+C:\Users\louis\source\repos\Port Scanner Public\Port Scanner Public\bin\Debug\Port Scanner Public.exe
+C:\Users\louis\source\repos\Port Scanner Public\Port Scanner Public\bin\Debug\Port Scanner Public.pdb
+C:\Users\louis\source\repos\Port Scanner Public\Port Scanner Public\obj\Debug\Port Scanner Public.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Port Scanner Public\Port Scanner Public\obj\Debug\Port Scanner Public.exe
+C:\Users\louis\source\repos\Port Scanner Public\Port Scanner Public\obj\Debug\Port Scanner Public.pdb
